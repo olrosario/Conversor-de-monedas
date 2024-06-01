@@ -1,6 +1,5 @@
 Challenge #2 OracleONE/AluraLatam
 
-
 Conversor de Monedas
 
 Este es un proyecto de conversor de monedas que permite convertir entre diferentes divisas. Éste challenge consistió en crear un programa que permita al usuario escoger un tipo de conversión de monedas a través de un menú en la terminal, al escoger un tipo de conversión se procede a pedir una cantidad a convertir y se muestra el resultado de dicha conversión. Las conversiones se realizan con la ayuda de la API Exchange Rate.
