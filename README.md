@@ -1,6 +1,5 @@
 Challenge #2 OracleONE/AluraLatam
 
-Mi Proyecto
 
 Conversor de Monedas
 
